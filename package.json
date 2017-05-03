@@ -1,0 +1,11 @@
+{
+  "name": "testtravis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Info: no test specified jsen\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
